@@ -1,14 +1,6 @@
 # Lois Kelly NLPProject
 # Text Generation in the Lyrical Style of The Beatles
 
-GitHub Repository is here:
-
-The relevent data files can be found: https://artslondon-my.sharepoint.com/:f:/g/personal/l_kelly0820231_arts_ac_uk/EmZXDZqT6DZOldR3HxUjsQ4BFne6f08lsR1Jc3msy3up6g?e=GuAL2l
-
-My trained models files are here: https://artslondon-my.sharepoint.com/:f:/g/personal/l_kelly0820231_arts_ac_uk/Ep8-9gXAqJBAsYBPCj6UO6sB_zFqRud8lpJtuFODyoFYgA?e=7m5s38. 
- 
-My GitHub Repository is here:
-https://git.arts.ac.uk/23044972/LoisNLPProject
 
 **Introduction**
 
